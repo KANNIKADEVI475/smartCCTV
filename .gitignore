@@ -1,0 +1,21 @@
+.venv
+images
+test
+videos
+.idea
+.vscode
+smartCCTV.ipynb
+
+# Trained models
+*.pt
+*.onnx
+*.engine
+
+# Datasets
+data/
+datasets/
+
+# Python
+__pycache__/
+venv/
+*.pyc
